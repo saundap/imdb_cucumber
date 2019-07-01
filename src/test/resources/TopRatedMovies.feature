@@ -1,4 +1,4 @@
-@tagRun
+@Run
 Feature: Top Rated Movies
 The "Top Rated Movies" page displays a list of theatrical films which have received the highest ratings on IMDB.
 This feature file describes the behavior of the top rated films page: http://www.imdb.com/chart/top
